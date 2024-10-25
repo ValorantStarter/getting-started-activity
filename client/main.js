@@ -6,4 +6,10 @@ document.querySelector('#app').innerHTML = `
     <img src="${rocketLogo}" class="logo" alt="Discord" />
     <h1>Hello, World!</h1>
   </div>
+  # install project dependencies
+npm install
+
+# start frontend
+npm run dev
+
 `;
